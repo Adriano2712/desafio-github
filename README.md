@@ -1,2 +1,2 @@
 # desafio-github
-desafio projetio github
+desafio projeto github
